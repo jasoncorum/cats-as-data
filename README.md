@@ -6,3 +6,6 @@ messier so you have something to clean up!
 
 The images are in the `images/` subdirectory.
 
+Cleanup Plan:
+- Get rid of all caps in title
+- Standardize dates
